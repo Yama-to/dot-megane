@@ -346,9 +346,18 @@ img::-moz-selection {
 
 .card {
   overflow: hidden;
+  padding-bottom: 40px;
 
   img {
     height: 250px;
     margin: 0 auto;
   }
+}
+
+.bottom-btn {
+}
+
+.invest {
+  bottom: 0;
+  position: absolute;
 }
